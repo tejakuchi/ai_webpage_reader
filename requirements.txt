@@ -4,4 +4,5 @@ beautifulsoup4==4.11.1
 langchain==0.0.179
 chromadb==0.3.23
 openai==0.27.0
+tiktoken
 
